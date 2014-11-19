@@ -1,1 +1,1 @@
-script.js
+function test(){alert("Example javascript")}
